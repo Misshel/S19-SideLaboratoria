@@ -41,6 +41,7 @@ p#boton{
 }
 
 section#muro{
+  font-family: 'Poppins', sans-serif;
   text-align: justify;
   margin-left: 15%;
 }
