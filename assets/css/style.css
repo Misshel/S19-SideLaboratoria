@@ -1,0 +1,46 @@
+body{
+  display: block;
+  margin: 8px;
+}
+
+#cabecera{
+/*imagen*/
+  display: inline-block;
+  margin-left: 35%;
+}
+
+section#post{
+  margin: 0% 25%;
+}
+
+.texto{
+  /*campos de texto*/
+  width: 100%;
+  border-radius: 5px;
+  font-style: italic;
+}
+
+#autor{
+  height: 40px;
+  font-size: inherit;
+}
+
+#areaPost{
+  height: 150px;
+  margin-top: 15px;
+  font-size: 17px;
+}
+
+p#boton{
+  margin-left: 90%;
+}
+
+#publicar{
+  border-radius: 3px;
+  height: 30px;
+}
+
+section#muro{
+  text-align: justify;
+  margin-left: 15%;
+}
